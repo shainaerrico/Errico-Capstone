@@ -2,6 +2,7 @@
 This repository tracks progress on my capstone project.
 
 **Capstone Update 5-29-26**
+
 Progress Update:
 * Added interactive building inputs: building type, climate zone, floor area, occupancy, ceiling height
 * Incorporated preliminary cooling load, ventilation airflow, and equipment sizing calculations
