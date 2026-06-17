@@ -13,3 +13,13 @@ Progress Update:
 
 Next steps: 
 * Integrate ASHRAE 62.1 (national ventilation code) requirements so that building type influences outdoor air calculations to improve realism of HVAC sizing/selection
+
+**Capstone Update 6-16-26**
+Progress Update:
+* Updated occupancy selection to allow either ASHRAE default values or user-defined custom occupancy inputs
+* Integrated occupancy inputs directly into notebook calculations
+* Added an ASHRAE 62.1 (national HVAC ventilation code) lookup table and incorporated it into calculations to enable automatic use of code-based ventilation rates
+
+Next Steps:
+* Explore adding zoning/room-level inputs to the building model
+* Expand the system selection module to provide clearer justification for selected systems and include additional performance comparison tools and visualizations
