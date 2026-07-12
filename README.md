@@ -24,3 +24,16 @@ Progress Update:
 Next Steps:
 * Explore adding zoning/room-level inputs to the building model
 * Expand the system selection module to provide clearer justification for selected systems and include additional performance comparison tools and visualizations
+
+**Capstone Update 7-12-26**
+
+Progress Update: 
+* Expanded the building inputs to allow users to define the number of zones and enter design parameters for each zone, providing a more accurate building load calculation. Occupancy is automatically populated from ASHRAE 62.1, with an option to override the default values
+* Generated an engineering report with technical justifications based on the calculated airflow requirements and zoning inputs
+* Improved equipment selection by implementing a multi-criteria decision-making approach
+
+Next Steps:
+* Transition from simplified building-level assumptions to detailed zone-level load calculations
+* Add heating load calculations, as the current tool is primarily focused on cooling analysis
+* Improve calculation accuracy, validation, and overall data presentation
+* Begin incorporating and testing the tool using real project data and building inputs
