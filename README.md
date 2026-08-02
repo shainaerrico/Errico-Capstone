@@ -37,3 +37,13 @@ Next Steps:
 * Add heating load calculations, as the current tool is primarily focused on cooling analysis
 * Improve calculation accuracy, validation, and overall data presentation
 * Begin incorporating and testing the tool using real project data and building inputs
+
+**Capstone Update 8-2-26**
+Proress Update
+* Published the Pluto notebook on a webpage through GitHub. Still troubleshooting display issues and working on hiding code cells: https://shainaerrico.github.io/Errico-Capstone/
+* Started drafting the final report and presentation
+
+Next Steps
+* Finish refining the notebook
+* Apply the tool to a real‑world project
+* Continue developing the report, presentation, and webpage
