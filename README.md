@@ -49,7 +49,7 @@ Next Steps:
 * Apply the tool to a real‑world project
 * Continue developing the report, presentation, and webpage
 
-* **Capstone Update 8-26-26**
+**Capstone Update 8-26-26**
 
 Progress Update:
 * Uploaded final notebook 
